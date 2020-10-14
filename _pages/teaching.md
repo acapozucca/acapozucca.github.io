@@ -30,7 +30,7 @@ redirect_from:
 * 2017-2018 (Winter semester). Software Engineering Environments, Master in Computer Science (MiCS), University of Luxembourg. Teaching Assistant.
 
 
-* 2017. Messir: a scientific method for the software engineer, Master in Computer Science, Universidad Nacional de Rosario, Argentina. Visiting Professor.
+* 2017 . Messir: a scientific method for the software engineer, Master in Computer Science, Universidad Nacional de Rosario, Argentina. Visiting Professor.
 
 * 2016-2017 (Summer semester). Software Engineering and Development, Master of Science in Information Technology, Innopolis University, Russia. Visiting Professor.
 
@@ -68,4 +68,4 @@ redirect_from:
 
 * 2003-2004. [System Analysis](www.fceia.unr.edu.ar/asist/), Universidad Nacional de Rosario, Argentina. Teaching Assistant.
 
-* 2003. [Software Engineering](https://www.fceia.unr.edu.ar/ingsoft/), Universidad Nacional de Rosario, Argentina. Teaching Assistant.
+* 2003 . [Software Engineering](https://www.fceia.unr.edu.ar/ingsoft/), Universidad Nacional de Rosario, Argentina. Teaching Assistant.
