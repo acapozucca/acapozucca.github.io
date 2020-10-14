@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alfredo Capozucca / PhD"
+title                    : "Alfredo Capozucca, PhD"
 title_separator          : "-"
 name                     : &name "Alfredo Capozucca"
 description              : &description "Alfredo Capozucca's home page'"
