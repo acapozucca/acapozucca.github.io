@@ -3,7 +3,7 @@ permalink: /students/
 title: "Supervised Students"
 author_profile: true
 redirect_from: 
-  - /students.html
+  - /students
 ---
 
 ##   Supervised PhD Students 
