@@ -5,12 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+For a list of my publications, please consult the official repository provided by my employer, the University of Luxembourg. This repository is publicly accessible at the following URL:
 
-{% include base_path %}
+[https://orbilu.uni.lu/](https://orbilu.uni.lu/)
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+
+Google scholar does also an excellent job, so you can find an accurate list of my publications [here](https://scholar.google.co.uk/citations?hl=en&user=nLOPh-oAAAAJ). 
