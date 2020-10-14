@@ -1,13 +1,13 @@
 ---
 permalink: /address/
-title: "Address"
+title: "Addresses"
 author_profile: true
 redirect_from: 
   - /address
 ---
 
-##  Mail address
 
+##  Mail address
 University of Luxembourg<br>
 Belval Campus<br>
 Maison du Nombre<br>
@@ -16,20 +16,14 @@ L-4364 Esch-sur-Alzette
 
 
 
-##  Office
-
-Belval Campus
-
-Maison du Nombre
-
-6, avenue de la Fonte
-
-L-4364 Esch-sur-Alzette
+##  Office address
+Belval Campus<br>
+Maison du Nombre<br>
+6, avenue de la Fonte<br>
+L-4364 Esch-sur-Alzette<br>
+**MNO-E03-0315150**<br>
+GPS: 49.503423, 5.948347<br>
 
 
-**MNO-E03-0315150**
-
-Phone: (+352) 46 66 44 5278
-
-
-GPS: 49.503423, 5.948347
+## Phone
+(+352) 46 66 44 5278
