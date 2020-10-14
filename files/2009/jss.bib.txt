@@ -1,0 +1,17 @@
+@article{CapozuccaGPRZ08_JSS,
+ author = {Alfredo Capozucca and
+	   Nicolas Guelfi and
+	   Patrizio Pelliccione and
+	   Alexander Romanovsky and
+	   Avelino F. Zorzo},
+ title = {Frameworks for designing and implementing dependable systems using Coordinated Atomic Actions: A comparative study},
+ journal = {Journal of Systems and Software},
+ volume = {82},
+ number = {2},
+ year = {2009},
+ issn = {0164-1212},
+ pages = {207--228},
+ doi = {http://dx.doi.org/10.1016/j.jss.2008.05.038},
+ publisher = {Elsevier Inc.},
+ address = {New York, NY, USA},
+}

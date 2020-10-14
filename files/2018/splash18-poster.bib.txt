@@ -1,0 +1,9 @@
+@inproceedings{Ries_2018_SPLASH_poster,
+ author = {Ries, Beno\^{\i}t and Capozucca, Alfredo and Guelfi, Nicolas},
+ title = {Messir: A Text-first DSL-based Approach for UML Requirements Engineering (poster)},
+ booktitle = {ACM SIGPLAN conference on Systems, Programming, Languages and Applications: Software for Humanity (SPLASH), poster session},
+ series = {SPLASH 2018},
+ year = {2018},
+ location = {Boston, MA, USA},
+} 
+

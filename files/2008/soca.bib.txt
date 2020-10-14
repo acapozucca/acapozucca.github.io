@@ -1,0 +1,14 @@
+@article{BalbastroCG08_SOCA,
+ author = {Florencia Balbastro and
+          Alfredo Capozucca and
+          Nicolas Guelfi},
+ title = {Analysis and framework-based design of a fault-tolerant web information system for m-health},
+ journal = {Service Oriented Computing and Applications},
+ volume = {2},
+ number = {2-3},
+ year = {2008},
+ issn = {1863-2386},
+ pages = {111-144},
+ doi = {http://dx.doi.org/10.1007/s11761-008-0026-3},
+ publisher = {Springer London},
+}

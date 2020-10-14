@@ -1,0 +1,10 @@
+@inproceedings{CapozuccaGP05_REFT,
+  author    = {Alfredo Capozucca and 
+   	       Nicolas Guelfi and 
+	       Patrizio Pelliccione},
+  title     = {The Fault-Tolerant Insulin Pump Therapy},
+  booktitle = {Proceedings of the Workshop on Rigorous Engineering of Fault-Tolerant Systems},
+  year      = {2005},
+  pages     = {33-42},
+  location = {Newcastle upon Tyne, England},
+}

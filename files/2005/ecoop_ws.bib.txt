@@ -1,0 +1,11 @@
+@inproceedings{CapozuccaGGP05_ECOOP,
+  author    = {Alfredo Capozucca and
+		Barbara Gallina and 
+		Nicolas Guelfi and
+		Patrizio Pelliccione},
+  title     = {Modeling Exception Handling: a UML2.0 Platform Independent Profile for CAA},
+  booktitle = {Proceedings of the ECOOP 2005 Workshop on Exception Handling in Object Oriented Systems},
+  year      = {2005},
+  pages     = {88-99},
+  location = {Glasgow, Scotland},
+}

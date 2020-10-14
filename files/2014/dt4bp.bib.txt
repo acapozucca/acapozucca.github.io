@@ -1,0 +1,12 @@
+@book{Capozucca14_dt4bpBook,
+    author    = {Alfredo Capozucca},
+    title     = {DT4BP: Dependability and Time for Business Processes},
+    publisher = {Scholars' Press},
+    address  = {Saarbr{\"u}cken, Germany},
+    year      = {2014},
+    month    = {March},
+    pages =    {388},
+    isbn =     {978-3-639-71008-3}
+}
+
+

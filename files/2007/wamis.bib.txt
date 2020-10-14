@@ -1,0 +1,10 @@
+@inproceedings{BalbastroCG07_WAMIS,
+  author    = {Florencia Balbastro and
+               Alfredo Capozucca and
+               Nicolas Guelfi},
+  title     = {On the Integration of Mobility in a Fault-Tolerant e-Health Web Information System},
+  booktitle = {AINA Workshops (2)},
+  year      = {2007},
+  pages     = {629-634},
+  ee        = {http://doi.ieeecomputersociety.org/10.1109/AINAW.2007.270},
+}

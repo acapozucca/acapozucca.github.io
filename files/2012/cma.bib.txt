@@ -1,0 +1,16 @@
+@incollection {Mussbacher_et_al11_CMA,
+   author = {Mussbacher, Gunter and Al Abed, Wisam and Alam, Omar and Ali, Shaukat and Beugnard, Antoine and Bonnet, Valentin and Br{\ae}k, Rolv and Capozucca, Alfredo and Cheng, Betty and Fatima, Urooj and France, Robert and Georg, Geri and Guelfi, Nicolas and Istoan, Paul and J{\'e}z{\'e}quel, Jean-Marc and Kienzle, J{\"o}rg and Klein, Jacques and L{\'e}zoray, Jean-Baptiste and Malakuti, Somayeh and Moreira, Ana and Phung-Khac, An and Troup, Lucy},
+   affiliation = {Department of Systems and Computer Engineering, Carleton University, Canada},
+   title = {Comparing Six Modeling Approaches},
+   booktitle = {Models in Software Engineering},
+   series = {Lecture Notes in Computer Science},
+   editor = {Kienzle, Jörg},
+   publisher = {Springer Berlin / Heidelberg},
+   isbn = {978-3-642-29644-4},
+   keyword = {Computer Science},
+   pages = {217-243},
+   volume = {7167},
+   url = {http://dx.doi.org/10.1007/978-3-642-29645-1_22},
+   note = {10.1007/978-3-642-29645-1_22},
+   year = {2012}
+}

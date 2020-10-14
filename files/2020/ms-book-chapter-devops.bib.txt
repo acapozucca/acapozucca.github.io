@@ -1,0 +1,27 @@
+@Inbook{Bobrov2020,
+author="Bobrov, Evgeny
+and Bucchiarone, Antonio
+and Capozucca, Alfredo
+and Guelfi, Nicolas
+and Mazzara, Manuel
+and Naumchev, Alexandr
+and Safina, Larisa",
+editor="Bucchiarone, Antonio
+and Dragoni, Nicola
+and Dustdar, Schahram
+and Lago, Patricia
+and Mazzara, Manuel
+and Rivera, Victor
+and Sadovykh, Andrey",
+title="DevOps and Its Philosophy: Education Matters!",
+bookTitle="Microservices: Science and Engineering",
+year="2020",
+publisher="Springer International Publishing",
+address="Cham",
+pages="349--361",
+abstract="DevOps processes comply with principles and offer practices with the main objective of efficiently supporting the evolution of IT systems. To be efficient, a DevOps process relies on a set of integrated tools. DevOps is among the first competencies, together with agile method, required by the industry. As a new approach it is necessary to develop and offer to the academy and to the industry training programs to prepare engineers in the best possible way. In this chapter we present the main aspects of the educational effort made in recent years to educate engineers on the concepts and values of the DevOps philosophy. This includes principles, practices, tools, and architectures, primarily the microservices architectural style, which shares many aspects of DevOps approaches, especially modularity and flexibility, which enable continuous change and delivery. Two experiments have been carried out, one at the academic level as a master program course and the other as an industrial training. Based on those two, we provide a comparative analysis and some proposals in order to develop and improve DevOps education for the future.",
+isbn="978-3-030-31646-4",
+doi="10.1007/978-3-030-31646-4_14",
+url="https://doi.org/10.1007/978-3-030-31646-4_14"
+}
+

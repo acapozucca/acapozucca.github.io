@@ -1,0 +1,20 @@
+@InProceedings{10.1007/978-3-030-39306-9_1,
+author="Bobrov, Evgeny
+and Bucchiarone, Antonio
+and Capozucca, Alfredo
+and Guelfi, Nicolas
+and Mazzara, Manuel
+and Masyagin, Sergey",
+editor="Bruel, Jean-Michel
+and Mazzara, Manuel
+and Meyer, Bertrand",
+title="Teaching DevOps in Academia and Industry: Reflections and Vision",
+booktitle="Software Engineering Aspects of Continuous Development and New Paradigms of Software Production and Deployment",
+year="2020",
+publisher="Springer International Publishing",
+address="Cham",
+pages="1--14",
+abstract="The new century brought us a kind of renaissance in software development methods. The advent of the Agile manifesto has led to greater appreciation of methodologies aimed at producing valuable software through continuous incremental cycles. More recently, a new set of practices enclosed under the term DevOps has appeared to attain manifesto's objectives in more efficient manner. The software development community has already noticed the benefits brought by DevOps. Thus, the necessity of education in the field becomes more and more important, both from the technical and organisational point of view. This paper describes parallel experiences of teaching both undergraduate and graduate students at the university, and junior professional developers in industry, compares the two approaches and sums up the lessons learnt. A vision driven by the DevOps practices aimed at implementing a shift in the Software Engineering Higher Education curricula to takeover its current limitations is also reported at the end of the paper.",
+isbn="978-3-030-39306-9"
+}
+

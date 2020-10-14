@@ -1,0 +1,14 @@
+@article{CapozuccaG10_EIS,
+ author = {Alfredo Capozucca and
+	   Nicolas Guelfi},
+ title = {Modelling dependable collaborative time-constrained business processes},
+ journal = {Enterprise Information Systems},
+ volume = {4},
+ number = {2},
+ month = {May},
+ year = {2010},
+ issn = {0164-1212},
+ pages = {153--214},
+ publisher = {Taylor \& Francis},
+ address = {London, UK},
+}
