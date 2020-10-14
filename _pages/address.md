@@ -9,7 +9,6 @@ redirect_from:
 
 ##  Mail address
 University of Luxembourg<br>
-Belval Campus<br>
 Maison du Nombre<br>
 6, avenue de la Fonte<br>
 L-4364 Esch-sur-Alzette
