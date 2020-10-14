@@ -8,13 +8,13 @@ redirect_from:
 
 ##   Supervised PhD Students 
 
-* 2009-2013. Paul Alexandru Istoan, ''Methodology for the derivation of product behaviour in a Software Product Line'', (co-supervised with Nicolas Guelfi, and Jean-Marc Jezequel), University of Luxembourg and IRISA (Rennes, France). 
+* 2009-2013. Paul Alexandru Istoan, "Methodology for the derivation of product behaviour in a Software Product Line", (co-supervised with Nicolas Guelfi, and Jean-Marc Jezequel), University of Luxembourg and IRISA (Rennes, France). 
 
 
 
 ##   Supervised Master Students 
 
-* 2017-2018 (Summer semester). Stanislav Konchenko, ''Quality assessment of DevOps practices and tools'', MiCS, University of Luxembourg.
+* 2017-2018 (Summer semester). Stanislav Konchenko, "Quality assessment of DevOps practices and tools"", MiCS, University of Luxembourg.
  
 * 2012-2013 (Winter semester). Alejandro Villegas Fernández, "tCAA: A design language for dependable systems with time constraints", exchange student from Universidad de Málaga (Ingeniería Informática, 5 years degree), Spain.
 

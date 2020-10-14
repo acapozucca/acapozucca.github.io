@@ -8,38 +8,48 @@ redirect_from:
 
 ##  Program committee member & Peer review services 
 
+
+### 2020
+
+* [ESSE 2020](http://www.esse.org/), reviewer. 
+
+* [Jordanian Journal of Computers and Information Technology](https://www.jjcit.org/), reviewer.
+
+
 ### 2019
 
-* Second international workshop on software engineering aspects of continuous development and new paradigms of software production and deployment , 2019, reviewer.
-* Argentine Symposium on Computer Education (SAEI), 2019, PC member.
-* IMHCS 2019, PC member.
-* First international workshop on DevOps, 2019, PC member.
+* [First international workshop on frontiers in software engineering education](https://www.laser-foundation.org/fisee/2019/), Program and Organisation chair
+* [Second international workshop on software engineering aspects of continuous development and new paradigms of software production and deployment](https://www.laser-foundation.org/devops/2019/), 2019, reviewer.
+* [Argentine Symposium on Computer Education (SAEI)](http://www.sadio.org.ar/jaiio/48-jaiio-2019/), 2019, PC member.
+* [IMHCS 2019](https://iucc2019.sau.edu.cn/info/1021/1014.htm), PC member.
+* [First international workshop on DevOps at MODELS](https://ace-design.github.io/devops-at-models/), 2019, PC member.
+
 
 ### 2018
 
-* First international workshop on software engineering aspects of continuous development and new paradigms of software production and deployment, 2018, reviewer.
-* ICAIT 2018, PC member.
-* ACM/IEEE International Workshop on Software Engineering Education for Millennials, 2018, reviewer.
+* [First international workshop on software engineering aspects of continuous development and new paradigms of software production and deployment](https://www.laser-foundation.org/devops/2018/), 2018, reviewer.
+* [ICAIT 2018](http://icait-aizu.org/), PC member.
+* [ACM/IEEE International Workshop on Software Engineering Education for Millennials](http://conferences.computer.org/icse-w/2018/#!/toc/18"), 2018, reviewer.
 
 
 ### 2017
 
-* ACM TOCE, special issue on Global Software Engineering Education, 2017, reviewer.
-* IMHCS 2017, PC member.
-* PNSE 2017, reviewer.
+* [ACM TOCE, special issue on Global Software Engineering Education](https://toce.acm.org/), reviewer.
+* [IMHCS 2017](http://cse.stfx.ca/~CybConf2017/wss/IMHCS.pdf), PC member.
+* [PNSE 2017](http://www.informatik.uni-hamburg.de/TGI/events/pnse17/), reviewer.
 
 
 ### 2016
 
-* ICAIT 2016, PC member.
-* ISSRE 2016, reviewer.
-* SERENE 2016, reviewer.
-* RADIANCE 2016, reviewer.
+* [ICAIT 2016](http://kspt.icc.spbstu.ru/conf/icait-2016/), PC member.
+* [ISSRE 2016](http://2016.issre.net/), reviewer.
+* [SERENE 2016](http://serene.disim.univaq.it/2016/home/), reviewer.
+* [RADIANCE 2016](http://www.devasses.eu/index.php/radiance#main-content), reviewer.
 
 ### 2015
 
-* IWAIT 2015, reviewer.
-* ISSRE 2015, reviewer.
+* [IWAIT 2015](http://kspt.icc.spbstu.ru/conf/iwait-2015/), reviewer.
+* [ISSRE 2015](http://2015.issre.net/), reviewer.
 * [SERENE 2015](http://serene.disim.univaq.it/2015/home/), reviewer.
 
 ### 2014
@@ -52,7 +62,7 @@ redirect_from:
 
 ### 2011
 
-* [ISSRE 2011](href="http://2011.issre.net/), reviewer.
+* ISSRE 2011, reviewer.
 
 ### 2009
 * [PNSE 2009](http://www.informatik.uni-hamburg.de/TGI/events/pnse09/), reviewer.
