@@ -1,9 +1,0 @@
-@inproceedings{guelfi-2016-measuring-swebok-coverage,
-  title={Measuring the SWEBOK Coverage: An Approach and a Tool},
-  author={Guelfi, Nicolas and Capozucca, Alfredo and Ries, Benoit},
-  booktitle={SWEBoK Evolution - Virtual Town Hall Meeting},
-  year={2016},
-  organization={IEEE},
-  howpublished = {\url{https://www.computer.org/web/peb/swebok-evolution}},
-  note = {virtual presentation of accepted peer reviewed paper}
-  }

@@ -1,7 +1,0 @@
-@inproceedings{guelfi-2017-cseetPoster,
-  title={A Product Line of Software Engineering Project Courses},
-  author={Guelfi, Nicolas and Capozucca, Alfredo and Ries, Benoit},
-  booktitle={2017 IEEE 30th Conference on Software Engineering Education and Training - poster session},
-  year={2017},
-  organization={IEEE}
- }

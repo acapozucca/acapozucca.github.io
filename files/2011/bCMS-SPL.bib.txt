@@ -1,7 +1,0 @@
-@inproceedings{Capozucca_et_al_11_CMA,
-  title={OO-SPL modelling of the focused case study},
-  author={Capozucca, Alfredo and Cheng, Betty and Guelfi, Nicolas and Istoan, Paul},
-  booktitle={Comparing Modeling Approaches (CMA) International Workshop affiliated with ACM/IEEE 14th International Conference on Model Driven Engineering Languages and Systems},
-  YEAR =         {2011}
-  url = {http://hdl.handle.net/10993/12572},
-}

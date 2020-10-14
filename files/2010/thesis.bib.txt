@@ -1,9 +1,0 @@
-@PhDThesis{Capozucca10_Thesis,
- author = {Alfredo Capozucca},
- title = {DT4BP: A Business Process Modelling Language for Dependable Time-Constrained Business Processes},
- school = {University of Luxembourg (Thesis PhD-FSTC-34-2010)},
- month = {December},
- year = {2010}
-}
-
-
