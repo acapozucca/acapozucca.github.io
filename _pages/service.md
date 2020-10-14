@@ -40,27 +40,27 @@ redirect_from:
 
 * IWAIT 2015, reviewer.
 * ISSRE 2015, reviewer.
-* SERENE 2015, reviewer.
+* [SERENE 2015](http://serene.disim.univaq.it/2015/home/), reviewer.
 
 ### 2014
-* ISSRE 2014, reviewer.
+* [ISSRE 2014](http://2014.issre.net), reviewer.
 
 
 ### 2012
 
-* International journal Distributed Computing, 2012, reviewer.
+* [International journal Distributed Computing](https://link.springer.com/journal/volumesAndIssues/446), reviewer.
 
 ### 2011
 
-* ISSRE 2011, reviewer.
+* [ISSRE 2011](href="http://2011.issre.net/), reviewer.
 
 ### 2009
-* PNSE 2009, reviewer.
+* [PNSE 2009](http://www.informatik.uni-hamburg.de/TGI/events/pnse09/), reviewer.
 
 ### 2007
 
-* CEE-SET 2007, reviewer.
+* [CEE-SET 2007](http://dl.ifip.org/db/conf/ifip2/ceeset2007/index.html), reviewer.
 
 ### 2006
 
-* CAISE 2006, reviewer.
+* [CAISE 2006](https://link.springer.com/book/10.1007/11767138), reviewer.
