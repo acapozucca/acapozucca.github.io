@@ -5,9 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-For a list of my publications, please consult the official repository provided by my employer, the University of Luxembourg. This repository is publicly accessible at the following URL:
-
-[https://orbilu.uni.lu/](https://orbilu.uni.lu/)
+The list of my publications can be found at the official repository provided by my employer, the University of Luxembourg at [the following URL](https://orbilu.uni.lu/browse?type=authorulg&rpp=20&value=Capozucca%2C+Alfredo+50001184).
 
 
-Google scholar does also an excellent job, so you can find an accurate list of my publications [here](https://scholar.google.co.uk/citations?hl=en&user=nLOPh-oAAAAJ). 
+
+Google scholar does also an excellent job, so you can also find an accurate list of my publications [here](https://scholar.google.co.uk/citations?hl=en&user=nLOPh-oAAAAJ). 
