@@ -6,8 +6,6 @@ redirect_from:
   - /service
 ---
 
-##  Program committee member & Peer review services 
-
 
 ### 2020
 
@@ -19,17 +17,17 @@ redirect_from:
 ### 2019
 
 * [First international workshop on frontiers in software engineering education](https://www.laser-foundation.org/fisee/2019/), Program and Organisation chair
-* [Second international workshop on software engineering aspects of continuous development and new paradigms of software production and deployment](https://www.laser-foundation.org/devops/2019/), 2019, reviewer.
-* [Argentine Symposium on Computer Education (SAEI)](http://www.sadio.org.ar/jaiio/48-jaiio-2019/), 2019, PC member.
+* [Second international workshop on software engineering aspects of continuous development and new paradigms of software production and deployment](https://www.laser-foundation.org/devops/2019/), reviewer.
+* [Argentine Symposium on Computer Education (SAEI)](http://www.sadio.org.ar/jaiio/48-jaiio-2019/), PC member.
 * [IMHCS 2019](https://iucc2019.sau.edu.cn/info/1021/1014.htm), PC member.
-* [First international workshop on DevOps at MODELS](https://ace-design.github.io/devops-at-models/), 2019, PC member.
+* [First international workshop on DevOps at MODELS](https://ace-design.github.io/devops-at-models/), PC member.
 
 
 ### 2018
 
-* [First international workshop on software engineering aspects of continuous development and new paradigms of software production and deployment](https://www.laser-foundation.org/devops/2018/), 2018, reviewer.
+* [First international workshop on software engineering aspects of continuous development and new paradigms of software production and deployment](https://www.laser-foundation.org/devops/2018/), reviewer.
 * [ICAIT 2018](http://icait-aizu.org/), PC member.
-* [ACM/IEEE International Workshop on Software Engineering Education for Millennials](http://conferences.computer.org/icse-w/2018/#!/toc/18"), 2018, reviewer.
+* [ACM/IEEE International Workshop on Software Engineering Education for Millennials](http://conferences.computer.org/icse-w/2018/#!/toc/18"), reviewer.
 
 
 ### 2017
