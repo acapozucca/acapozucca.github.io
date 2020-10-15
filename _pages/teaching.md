@@ -8,11 +8,13 @@ redirect_from:
 
 ##  Currently 
 
-* Since 2017-2018 (Winter/Summer semesters). Bachelor Semester Projects, Bachelor in Computer Science (BiCS), University of Luxembourg. Project Academic Tutor.
+* Since 2018-2019 (Winter semester). Software Engineering Environments (new edition - DevOps oriented), Master in Computer Science (MiCS), University of Luxembourg. Lecturer.
+
 
 * Since 2018-2019 (Summer semester). Software Analysis and Design, Bachelor in Informatics (Lifelong learning BINFO), University of Luxembourg. Lecturer.
+
+* Since 2017-2018 (Winter/Summer semesters). Bachelor Semester Projects, Bachelor in Computer Science (BiCS), University of Luxembourg. Project Academic Tutor.
   
-* Since 2018-2019 (Winter semester). Software Engineering Environments (new edition - DevOps oriented), Master in Computer Science (MiCS), University of Luxembourg. Lecturer.
 
 
 
