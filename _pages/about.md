@@ -19,10 +19,11 @@ I actively participate in the design and delivery of courses related to software
 I am member of the [Department of Computer Science (DCS)](https://dcs.uni.lu), which is part of the [Faculty of Science, Technology and Medicine (FSTM)](https://wwwen.uni.lu/fstm). 
 
 
-###   Bio
+###   Short Bio
 
 * 2011 - present: Research scientist, University of Luxembourg. 
 * 2010: Ph.D in Computer Science, University of Luxembourg.
 * 2004 - 2006: R&D engineer, University of Luxembourg.
 * 2003: M.S. in Computer Science, National University of Rosario, Argentina.
  
+A more detailed bio can be found [here](https://www.linkedin.com/in/acapozucca/) 
