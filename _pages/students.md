@@ -14,7 +14,9 @@ redirect_from:
 
 ##   Supervised Master Students 
 
-* 2017-2018 (Summer semester). Stanislav Konchenko, "Quality assessment of DevOps practices and tools"", MiCS, University of Luxembourg.
+* 2020-2021 (Summer semester). Venkateshwaran Thamilselvan, "Software as a service: qualities and metrics", MiCS, University of Luxembourg.
+
+* 2017-2018 (Summer semester). Stanislav Konchenko, "Quality assessment of DevOps practices and tools", MiCS, University of Luxembourg.
  
 * 2012-2013 (Winter semester). Alejandro Villegas Fernández, "tCAA: A design language for dependable systems with time constraints", exchange student from Universidad de Málaga (Ingeniería Informática, 5 years degree), Spain.
 
