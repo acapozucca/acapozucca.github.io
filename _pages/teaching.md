@@ -8,7 +8,10 @@ redirect_from:
 
 ##  Currently 
 
-* Since 2018-2019 (Winter semester). Software Engineering Environments (new edition - DevOps oriented), Master in Computer Science (MiCS), University of Luxembourg. Lecturer.
+* Since 2022-2023 (Summer semester). Introduction to Formal Methods, Bachelor in Computer Science (BiCS), University of Luxembourg. Lecturer.
+
+
+* Since 2018-2019 (Winter semester). Software Engineering Environments (new edition - DevOps oriented), Master in Information and Computer Science (MICS), University of Luxembourg. Lecturer.
 
 
 * Since 2018-2019 (Summer semester). Software Analysis and Design, Bachelor in Informatics (Lifelong learning BINFO), University of Luxembourg. Lecturer.
@@ -29,7 +32,7 @@ redirect_from:
 
 * 2017-2018 (Winter semester). Software Engineering Project, Bachelor in Informatics (BINFO), University of Luxembourg. Teaching Assistant.
 
-* 2017-2018 (Winter semester). Software Engineering Environments, Master in Computer Science (MiCS), University of Luxembourg. Teaching Assistant.
+* 2017-2018 (Winter semester). Software Engineering Environments, Master in Information and Computer Science (MICS), University of Luxembourg. Teaching Assistant.
 
 
 * 2017 . Messir: a scientific method for the software engineer, Master in Computer Science, Universidad Nacional de Rosario, Argentina. Visiting Professor.
@@ -51,7 +54,7 @@ redirect_from:
 * 2010-2011/12/13/14/15/16/17 (Summer semester). Software engineering, Bachelor in Informatics (BINFO), University of Luxembourg. Teaching Assistant.
 
 
-* 2010-2011/12/13/14 (Summer semester). Dependable Systems, Master in Computer Science (MiCS), University of Luxembourg. Teaching Assistant.
+* 2010-2011/12/13/14 (Summer semester). Dependable Systems, Master in Information and Computer Science (MICS), University of Luxembourg. Teaching Assistant.
 
 
 * 2011-2012/13/14 (Winter semester). Analysis and Design II, Bachelor in Informatics (BINFO), University of Luxembourg. Teaching Assistant.

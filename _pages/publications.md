@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-The list of my publications can be found at the official repository provided by my employer, the University of Luxembourg at [the following URL](https://orbilu.uni.lu/browse?type=authorulg&rpp=20&value=Capozucca%2C+Alfredo+50001184).
+The list of my publications can be found at the official repository provided by my employer, the University of Luxembourg at [the following URL](https://orbilu.uni.lu/profile?uid=50001184).
 
 
 
