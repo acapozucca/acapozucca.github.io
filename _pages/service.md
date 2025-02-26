@@ -9,13 +9,15 @@ redirect_from:
 
 ### 2023
 
+* [Book on Frontiers in Software Engineering Education](https://link.springer.com/book/10.1007/978-3-031-48639-5), editor.
 * [MobileHCI23](https://mobilehci.acm.org/2023/), reviewer.
+* [Second international workshop on frontiers in software engineering education (FISEE)](https://www.laser-foundation.org/fisee/2023/), Program and Organisation chair.
 
 
 ### 2022
 
 * [DevOps@MODELS'22](https://ace-design.github.io/devops-at-models/), PC member. 
-
+* [Special Issue on New Paradigms of Software Production and Deployment](New Paradigms of Software Production and Deployment), Leading guest editor.
 
 ### 2021
 
@@ -33,7 +35,7 @@ redirect_from:
 
 ### 2019
 
-* [First international workshop on frontiers in software engineering education](https://www.laser-foundation.org/fisee/2019/), Program and Organisation chair
+* [First international workshop on frontiers in software engineering education (FISEE)](https://www.laser-foundation.org/fisee/2019/), Program and Organisation chair
 * [Second international workshop on software engineering aspects of continuous development and new paradigms of software production and deployment](https://www.laser-foundation.org/devops/2019/), reviewer.
 * [Argentine Symposium on Computer Education (SAEI)](http://www.sadio.org.ar/jaiio/48-jaiio-2019/), PC member.
 * [IMHCS 2019](https://iucc2019.sau.edu.cn/info/1021/1014.htm), PC member.
