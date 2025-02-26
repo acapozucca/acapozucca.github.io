@@ -22,6 +22,7 @@ I am member of the [Department of Computer Science (DCS)](https://dcs.uni.lu), w
 ###   Short Bio
 
 * 2011 - present: Research scientist, University of Luxembourg. 
+* 2021 - 2024: Deputy Study Programme Director, Bachelor in Computer Science, University of Luxembourg. 
 * 2010: Ph.D in Computer Science, University of Luxembourg.
 * 2004 - 2006: R&D engineer, University of Luxembourg.
 * 2003: M.S. in Computer Science, National University of Rosario, Argentina.
