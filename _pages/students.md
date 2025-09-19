@@ -14,9 +14,12 @@ redirect_from:
 
 ##   Supervised Master Students 
 
+* 2025-2026 (Winter semester). Mohammadhossein Mojalalkanani, "Academic performance and class attendance: a comprehensive data-driven study", MICS, University of Luxembourg.
 
-* 2023-2024 (Summer semester). Flávio De Jesus Matias, "Energy Performance Assessment of
-Deployment Pipelines", MICS, University of Luxembourg.
+
+* 2024-2025 (Summer semester). Riccardo Scalia, "Measuring Power Beyond the Host: An Experimental Evaluation of Scaphandre’s Accuracy in Virtualized Environments", MICS, University of Luxembourg.
+
+* 2023-2024 (Summer semester). Flávio De Jesus Matias, "Energy Performance Assessment of Deployment Pipelines", MICS, University of Luxembourg.
 
 
 * 2023-2024 (Summer semester). Eliott Bonte, "The Impact of Student Attendance on Performance : A Data-Driven Analysis", MICS, University of Luxembourg.
