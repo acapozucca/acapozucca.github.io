@@ -7,6 +7,18 @@ redirect_from:
 ---
 
 
+### 2025
+
+* [ACM Transactions on Software Engineering and Methodology (TOSEM)](https://dl.acm.org/journal/tosem), reviewer.
+* [International Journal on Software and Systems Modeling (SoSyM)](https://www.sosym.org/), reviewer.
+* [SoftwareX journal](https://www.sciencedirect.com/journal/softwarex), reviewer.
+
+
+### 2024
+
+* [Latin-American Journal of Learning Technologies (IEEE-RITA)](https://vaep-rita.org/), reviewer.
+
+
 ### 2023
 
 * [Book on Frontiers in Software Engineering Education](https://link.springer.com/book/10.1007/978-3-031-48639-5), editor.
